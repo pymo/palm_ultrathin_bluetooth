@@ -8,7 +8,7 @@ This project modifies the Palm Ultra-thin Keyboard into a Bluetooth keyboard. Th
 Where to buy
 -----------
 
-To be updated
+You can buy the kit from my [Tindie store](https://www.tindie.com/products/39633/). You can also make the PCB by yourself if you are familiar with PCB making and SMT. The PCB files are in the `/pcb` folder.
 
 Keyboard Matrix
 -----------
