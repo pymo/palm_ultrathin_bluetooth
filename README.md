@@ -2,7 +2,8 @@
 
 ![Demo of Palm Ultra-thin keyboard](/images/manual.jpg)
 
-This project modifies the Palm Ultra-thin Keyboard into a Bluetooth keyboard. The conversion kit includes a custom PCB that replaces the original one, a li-po battery, and a 3D printed cover with power switch.
+This project modifies the Palm Ultra-thin Keyboard into a Bluetooth keyboard. The conversion kit includes a custom PCB that replaces the original one, a li-po battery, and a 3D printed cover with power switch. The Bluetooth PCB supports BLE 5.3, can pair up to 4 hosts simultaneously, and supports wired USB Type-C connection.
+
 
 Where to buy
 -----------
