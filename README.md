@@ -1,24 +1,25 @@
 # Palm Ultra-thin Keyboard (P10900U) Bluetooth Mod
 
-![Demo of Palm Ultra-thin keyboard](/images/manual.jpg)
+![Demo of Palm Ultra-thin keyboard](/images/demo.gif)
 
 This project modifies the Palm Ultra-thin Keyboard into a Bluetooth keyboard. The conversion kit includes a custom PCB that replaces the original one, a li-po battery, and a 3D printed cover with power switch. The Bluetooth PCB supports BLE 5.3, can pair up to 4 hosts simultaneously, and supports wired USB Type-C connection.
 
+![Before and after the mod](/images/before_after.jpg)
 
 Where to buy
 -----------
 
 You can buy the kit from my [Tindie store](https://www.tindie.com/products/39633/). You can also make the PCB by yourself if you are familiar with PCB making and SMT. The PCB files are in the `/pcb` folder.
 
-Keyboard Matrix
------------
-
-[Keyboard Matrix analysis](keyboard_matrix.md)
-
-Instruction to install the PCB
+Instructions to install the PCB
 -----------
 
 [Tutorial for installing the PCB into the keyboard](install.md)
+
+Keyboard Matrix
+-----------
+
+[Keyboard matrix table](matrix.md).
 
 PCB design and firmware
 -----------
